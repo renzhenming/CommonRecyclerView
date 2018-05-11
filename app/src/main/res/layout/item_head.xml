@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center"
+    android:background="#0f0"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:id="@+id/text"
+        android:textColor="#fff"
+        android:textSize="18sp"
+        android:background="#f099"
+        android:text="我是Header"
+        android:layout_height="50dp" />
+</LinearLayout>
